@@ -1,0 +1,4 @@
+(flycheck-org-vale
+ :fetcher github
+ :repo "grettke/flycheck-org-vale"
+ :files (:defaults "flycheck-org-vale.tmpl"))
